@@ -1,0 +1,321 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/269/SRX19144479.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/240/SRX19144480.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/288/SRX19144481.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/145/SRX19144482.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/314/SRX19144483.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/251/SRX19144484.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/241/SRX19144485.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/144/SRX19144486.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/307/SRX19144487.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/146/SRX19144488.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/244/SRX19144489.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/283/SRX19144490.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/239/SRX19144491.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/205/SRX19144492.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/147/SRX19144493.markdup.sorted.metrics.txt
+Picard	DuplicationMetrics	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/148/SRX19144494.markdup.sorted.metrics.txt
+QualiMap	rna_genome_results	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/238/SRX19144493/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/357/SRX19144485/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/380/SRX19144479/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/378/SRX19144481/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/234/SRX19144494/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/235/SRX19144492/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/361/SRX19144484/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/345/SRX19144491/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/364/SRX19144480/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/237/SRX19144488/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/384/SRX19144490/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/387/SRX19144487/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/236/SRX19144486/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/233/SRX19144482/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/340/SRX19144489/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/390/SRX19144483/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/238/SRX19144493/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/357/SRX19144485/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/380/SRX19144479/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/378/SRX19144481/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/234/SRX19144494/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/235/SRX19144492/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/361/SRX19144484/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/345/SRX19144491/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/364/SRX19144480/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/237/SRX19144488/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/384/SRX19144490/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/387/SRX19144487/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/236/SRX19144486/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/233/SRX19144482/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/340/SRX19144489/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/390/SRX19144483/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/325/SRX19144479.read_distribution.txt
+RSeQC	read_distribution	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/298/SRX19144480.read_distribution.txt
+RSeQC	read_distribution	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/346/SRX19144481.read_distribution.txt
+RSeQC	read_distribution	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/201/SRX19144482.read_distribution.txt
+RSeQC	read_distribution	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/368/SRX19144483.read_distribution.txt
+RSeQC	read_distribution	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/311/SRX19144484.read_distribution.txt
+RSeQC	read_distribution	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/318/SRX19144485.read_distribution.txt
+RSeQC	read_distribution	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/189/SRX19144486.read_distribution.txt
+RSeQC	read_distribution	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/370/SRX19144487.read_distribution.txt
+RSeQC	read_distribution	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/203/SRX19144488.read_distribution.txt
+RSeQC	read_distribution	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/285/SRX19144489.read_distribution.txt
+RSeQC	read_distribution	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/354/SRX19144490.read_distribution.txt
+RSeQC	read_distribution	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/281/SRX19144491.read_distribution.txt
+RSeQC	read_distribution	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/229/SRX19144492.read_distribution.txt
+RSeQC	read_distribution	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/194/SRX19144493.read_distribution.txt
+RSeQC	read_distribution	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/202/SRX19144494.read_distribution.txt
+RSeQC	inner_distance	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/294/SRX19144479.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/265/SRX19144480.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/315/SRX19144481.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/174/SRX19144482.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/343/SRX19144483.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/271/SRX19144484.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/262/SRX19144485.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/175/SRX19144486.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/331/SRX19144487.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/173/SRX19144488.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/280/SRX19144489.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/309/SRX19144490.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/256/SRX19144491.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/223/SRX19144492.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/176/SRX19144493.inner_distance_freq.txt
+RSeQC	inner_distance	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/172/SRX19144494.inner_distance_freq.txt
+RSeQC	read_duplication	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/355/SRX19144479.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/333/SRX19144480.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/369/SRX19144481.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/216/SRX19144482.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/381/SRX19144483.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/348/SRX19144484.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/337/SRX19144485.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/204/SRX19144486.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/379/SRX19144487.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/214/SRX19144488.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/319/SRX19144489.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/373/SRX19144490.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/310/SRX19144491.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/230/SRX19144492.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/215/SRX19144493.pos.DupRate.xls
+RSeQC	read_duplication	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/211/SRX19144494.pos.DupRate.xls
+RSeQC	junction_annotation	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/313/SRX19144479.junction_annotation.log
+RSeQC	junction_annotation	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/282/SRX19144480.junction_annotation.log
+RSeQC	junction_annotation	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/336/SRX19144481.junction_annotation.log
+RSeQC	junction_annotation	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/187/SRX19144482.junction_annotation.log
+RSeQC	junction_annotation	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/359/SRX19144483.junction_annotation.log
+RSeQC	junction_annotation	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/296/SRX19144484.junction_annotation.log
+RSeQC	junction_annotation	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/290/SRX19144485.junction_annotation.log
+RSeQC	junction_annotation	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/182/SRX19144486.junction_annotation.log
+RSeQC	junction_annotation	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/356/SRX19144487.junction_annotation.log
+RSeQC	junction_annotation	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/188/SRX19144488.junction_annotation.log
+RSeQC	junction_annotation	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/275/SRX19144489.junction_annotation.log
+RSeQC	junction_annotation	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/344/SRX19144490.junction_annotation.log
+RSeQC	junction_annotation	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/268/SRX19144491.junction_annotation.log
+RSeQC	junction_annotation	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/224/SRX19144492.junction_annotation.log
+RSeQC	junction_annotation	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/184/SRX19144493.junction_annotation.log
+RSeQC	junction_annotation	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/190/SRX19144494.junction_annotation.log
+RSeQC	junction_saturation	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/324/SRX19144479.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/292/SRX19144480.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/347/SRX19144481.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/197/SRX19144482.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/367/SRX19144483.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/304/SRX19144484.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/297/SRX19144485.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/186/SRX19144486.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/360/SRX19144487.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/196/SRX19144488.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/286/SRX19144489.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/351/SRX19144490.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/272/SRX19144491.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/225/SRX19144492.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/191/SRX19144493.junctionSaturation_plot.r
+RSeQC	junction_saturation	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/198/SRX19144494.junctionSaturation_plot.r
+RSeQC	infer_experiment	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/274/SRX19144479.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/247/SRX19144480.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/300/SRX19144481.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/166/SRX19144482.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/326/SRX19144483.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/261/SRX19144484.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/249/SRX19144485.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/159/SRX19144486.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/317/SRX19144487.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/160/SRX19144488.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/254/SRX19144489.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/295/SRX19144490.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/243/SRX19144491.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/207/SRX19144492.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/162/SRX19144493.infer_experiment.txt
+RSeQC	infer_experiment	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/161/SRX19144494.infer_experiment.txt
+RSeQC	bam_stat	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/320/SRX19144479.bam_stat.txt
+RSeQC	bam_stat	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/289/SRX19144480.bam_stat.txt
+RSeQC	bam_stat	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/341/SRX19144481.bam_stat.txt
+RSeQC	bam_stat	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/195/SRX19144482.bam_stat.txt
+RSeQC	bam_stat	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/363/SRX19144483.bam_stat.txt
+RSeQC	bam_stat	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/303/SRX19144484.bam_stat.txt
+RSeQC	bam_stat	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/302/SRX19144485.bam_stat.txt
+RSeQC	bam_stat	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/183/SRX19144486.bam_stat.txt
+RSeQC	bam_stat	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/362/SRX19144487.bam_stat.txt
+RSeQC	bam_stat	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/199/SRX19144488.bam_stat.txt
+RSeQC	bam_stat	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/278/SRX19144489.bam_stat.txt
+RSeQC	bam_stat	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/352/SRX19144490.bam_stat.txt
+RSeQC	bam_stat	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/270/SRX19144491.bam_stat.txt
+RSeQC	bam_stat	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/226/SRX19144492.bam_stat.txt
+RSeQC	bam_stat	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/185/SRX19144493.bam_stat.txt
+RSeQC	bam_stat	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/200/SRX19144494.bam_stat.txt
+Samtools	stats	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/312/SRX19144479.markdup.sorted.bam.stats
+Samtools	stats	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/276/SRX19144480.markdup.sorted.bam.stats
+Samtools	stats	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/334/SRX19144481.markdup.sorted.bam.stats
+Samtools	stats	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/178/SRX19144482.markdup.sorted.bam.stats
+Samtools	stats	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/358/SRX19144483.markdup.sorted.bam.stats
+Samtools	stats	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/291/SRX19144484.markdup.sorted.bam.stats
+Samtools	stats	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/277/SRX19144485.markdup.sorted.bam.stats
+Samtools	stats	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/177/SRX19144486.markdup.sorted.bam.stats
+Samtools	stats	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/353/SRX19144487.markdup.sorted.bam.stats
+Samtools	stats	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/180/SRX19144488.markdup.sorted.bam.stats
+Samtools	stats	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/279/SRX19144489.markdup.sorted.bam.stats
+Samtools	stats	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/332/SRX19144490.markdup.sorted.bam.stats
+Samtools	stats	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/266/SRX19144491.markdup.sorted.bam.stats
+Samtools	stats	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/222/SRX19144492.markdup.sorted.bam.stats
+Samtools	stats	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/181/SRX19144493.markdup.sorted.bam.stats
+Samtools	stats	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/179/SRX19144494.markdup.sorted.bam.stats
+Samtools	flagstat	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/284/SRX19144479.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/252/SRX19144480.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/306/SRX19144481.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/158/SRX19144482.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/335/SRX19144483.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/263/SRX19144484.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/253/SRX19144485.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/157/SRX19144486.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/323/SRX19144487.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/163/SRX19144488.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/259/SRX19144489.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/301/SRX19144490.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/245/SRX19144491.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/210/SRX19144492.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/165/SRX19144493.markdup.sorted.bam.flagstat
+Samtools	flagstat	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/164/SRX19144494.markdup.sorted.bam.flagstat
+Samtools	idxstats	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/273/SRX19144479.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/246/SRX19144480.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/299/SRX19144481.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/155/SRX19144482.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/327/SRX19144483.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/260/SRX19144484.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/248/SRX19144485.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/152/SRX19144486.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/316/SRX19144487.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/153/SRX19144488.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/255/SRX19144489.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/293/SRX19144490.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/242/SRX19144491.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/206/SRX19144492.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/156/SRX19144493.markdup.sorted.bam.idxstats
+Samtools	idxstats	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/154/SRX19144494.markdup.sorted.bam.idxstats
+STAR	SummaryLog	SRX19144479	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/141/SRX19144479.Log.final.out
+STAR	SummaryLog	SRX19144480	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/140/SRX19144480.Log.final.out
+STAR	SummaryLog	SRX19144481	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/142/SRX19144481.Log.final.out
+STAR	SummaryLog	SRX19144482	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/131/SRX19144482.Log.final.out
+STAR	SummaryLog	SRX19144483	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/139/SRX19144483.Log.final.out
+STAR	SummaryLog	SRX19144484	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/137/SRX19144484.Log.final.out
+STAR	SummaryLog	SRX19144485	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/143/SRX19144485.Log.final.out
+STAR	SummaryLog	SRX19144486	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/134/SRX19144486.Log.final.out
+STAR	SummaryLog	SRX19144487	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/138/SRX19144487.Log.final.out
+STAR	SummaryLog	SRX19144488	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/133/SRX19144488.Log.final.out
+STAR	SummaryLog	SRX19144489	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/151/SRX19144489.Log.final.out
+STAR	SummaryLog	SRX19144490	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/136/SRX19144490.Log.final.out
+STAR	SummaryLog	SRX19144491	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/149/SRX19144491.Log.final.out
+STAR	SummaryLog	SRX19144492	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/150/SRX19144492.Log.final.out
+STAR	SummaryLog	SRX19144493	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/135/SRX19144493.Log.final.out
+STAR	SummaryLog	SRX19144494	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/132/SRX19144494.Log.final.out
+FastQC (raw)	all_sections	SRX19144479_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/41/SRX19144479_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144479_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/42/SRX19144479_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144480_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/11/SRX19144480_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144480_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/12/SRX19144480_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144481_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/29/SRX19144481_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144481_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/30/SRX19144481_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144482_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/9/SRX19144482_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144482_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/10/SRX19144482_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144483_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/45/SRX19144483_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144483_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/46/SRX19144483_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144484_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/25/SRX19144484_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144484_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/26/SRX19144484_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144485_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/33/SRX19144485_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144485_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/34/SRX19144485_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144486_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/3/SRX19144486_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144486_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/4/SRX19144486_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144487_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/43/SRX19144487_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144487_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/44/SRX19144487_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144488_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/5/SRX19144488_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144488_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/6/SRX19144488_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144489_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/7/SRX19144489_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144489_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/8/SRX19144489_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144490_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/31/SRX19144490_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144490_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/32/SRX19144490_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144491_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/27/SRX19144491_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144491_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/28/SRX19144491_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144492_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/17/SRX19144492_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144492_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/18/SRX19144492_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144493_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/13/SRX19144493_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144493_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/14/SRX19144493_raw_2_fastqc.zip
+FastQC (raw)	all_sections	SRX19144494_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/15/SRX19144494_raw_1_fastqc.zip
+FastQC (raw)	all_sections	SRX19144494_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/16/SRX19144494_raw_2_fastqc.zip
+Trim Galore	all_sections	SRX19144479_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/101/SRX19144479_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144479_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/102/SRX19144479_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144480_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/55/SRX19144480_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144480_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/56/SRX19144480_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144481_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/95/SRX19144481_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144481_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/96/SRX19144481_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144482_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/47/SRX19144482_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144482_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/48/SRX19144482_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144483_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/113/SRX19144483_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144483_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/114/SRX19144483_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144484_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/67/SRX19144484_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144484_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/68/SRX19144484_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144485_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/125/SRX19144485_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144485_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/126/SRX19144485_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144486_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/19/SRX19144486_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144486_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/20/SRX19144486_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144487_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/119/SRX19144487_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144487_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/120/SRX19144487_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144488_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/35/SRX19144488_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144488_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/36/SRX19144488_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144489_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/59/SRX19144489_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144489_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/60/SRX19144489_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144490_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/83/SRX19144490_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144490_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/84/SRX19144490_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144491_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/107/SRX19144491_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144491_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/108/SRX19144491_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144492_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/71/SRX19144492_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144492_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/72/SRX19144492_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144493_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/89/SRX19144493_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144493_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/90/SRX19144493_trimmed_2.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144494_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/79/SRX19144494_trimmed_1.fastq.gz_trimming_report.json
+Trim Galore	all_sections	SRX19144494_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/80/SRX19144494_trimmed_2.fastq.gz_trimming_report.json
+FastQC (trimmed)	all_sections	SRX19144479_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/105/SRX19144479_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144479_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/106/SRX19144479_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144480_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/57/SRX19144480_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144480_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/58/SRX19144480_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144481_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/99/SRX19144481_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144481_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/100/SRX19144481_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144482_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/51/SRX19144482_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144482_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/52/SRX19144482_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144483_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/117/SRX19144483_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144483_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/118/SRX19144483_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144484_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/69/SRX19144484_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144484_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/70/SRX19144484_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144485_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/129/SRX19144485_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144485_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/130/SRX19144485_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144486_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/23/SRX19144486_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144486_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/24/SRX19144486_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144487_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/123/SRX19144487_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144487_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/124/SRX19144487_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144488_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/39/SRX19144488_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144488_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/40/SRX19144488_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144489_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/63/SRX19144489_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144489_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/64/SRX19144489_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144490_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/87/SRX19144490_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144490_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/88/SRX19144490_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144491_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/111/SRX19144491_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144491_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/112/SRX19144491_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144492_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/75/SRX19144492_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144492_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/76/SRX19144492_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144493_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/93/SRX19144493_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144493_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/94/SRX19144493_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144494_1	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/81/SRX19144494_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	SRX19144494_2	/tmp/nahfl959-3882795/nxf.FrSQKQP1KV/82/SRX19144494_trimmed_2_val_2_fastqc.zip

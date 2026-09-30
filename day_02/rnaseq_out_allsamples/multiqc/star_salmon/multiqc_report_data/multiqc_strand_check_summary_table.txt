@@ -1,0 +1,17 @@
+Sample	provided	salmon_inferred	salmon_pct	salmon_s	salmon_a	salmon_u	rseqc_inferred	rseqc_pct	rseqc_s	rseqc_a	rseqc_u	status
+SRX19144479	auto	reverse	88.3	11.7	88.3	0.0	reverse	98.7	1.2	92.5	6.3	pass
+SRX19144480	auto	reverse	96.9	3.1	96.9	0.0	reverse	98.5	1.4	93.6	5.0	pass
+SRX19144481	auto	unstranded		48.0	52.0	0.0	reverse	90.2	9.3	85.6	5.0	fail
+SRX19144482	auto	reverse	96.6	3.4	96.6	0.0	reverse	98.5	1.4	95.7	2.8	pass
+SRX19144483	auto	reverse	97.8	2.2	97.8	0.0	reverse	98.9	1.1	91.7	7.3	pass
+SRX19144484	auto	undetermined		21.0	79.0	0.0	reverse	98.9	1.0	93.4	5.6	fail
+SRX19144485	auto	reverse	97.0	3.0	97.0	0.0	reverse	98.6	1.4	94.5	4.1	pass
+SRX19144486	auto	reverse	98.1	1.9	98.1	0.0	reverse	98.7	1.3	93.2	5.5	pass
+SRX19144487	auto	reverse	97.9	2.1	97.9	0.0	reverse	98.9	1.0	95.5	3.5	pass
+SRX19144488	auto	reverse	97.7	2.3	97.7	0.0	reverse	98.7	1.2	95.1	3.7	pass
+SRX19144489	auto	undetermined		43.4	56.6	0.0	reverse	94.1	5.6	89.6	4.9	fail
+SRX19144490	auto	reverse	98.0	2.0	98.0	0.0	reverse	99.0	1.0	95.4	3.6	pass
+SRX19144491	auto	reverse	96.7	3.3	96.7	0.0	reverse	98.4	1.5	92.4	6.1	pass
+SRX19144492	auto	reverse	95.6	4.4	95.6	0.0	reverse	98.7	1.2	93.4	5.3	pass
+SRX19144493	auto	reverse	97.9	2.1	97.9	0.0	reverse	98.9	1.0	93.0	6.0	pass
+SRX19144494	auto	reverse	97.3	2.7	97.3	0.0	reverse	98.3	1.7	95.1	3.2	pass
