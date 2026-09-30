@@ -1,0 +1,321 @@
+Module	Section	Sample Name	Source
+Picard	DuplicationMetrics	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/177/Nac_Sal_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/172/Nac_Sal_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/175/Nac_Sal_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/168/Nac_Sal_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/167/Nac_Sal_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/171/Nac_Sal_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/170/Nac_Sal_7.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/179/Nac_Sal_8.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/173/Nac_oxy_1.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/178/Nac_oxy_2.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/180/Nac_oxy_3.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/169/Nac_oxy_4.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/174/Nac_oxy_5.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/165/Nac_oxy_6.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/176/Nac_oxy_7.markdup.sorted.MarkDuplicates.metrics.txt
+Picard	DuplicationMetrics	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/166/Nac_oxy_8.markdup.sorted.MarkDuplicates.metrics.txt
+QualiMap	rna_genome_results	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/408/Nac_oxy_8/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/422/Nac_oxy_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/420/Nac_oxy_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/409/Nac_Sal_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/411/Nac_Sal_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/414/Nac_Sal_7/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/413/Nac_Sal_2/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/416/Nac_oxy_5/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/417/Nac_Sal_3/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/418/Nac_oxy_7/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/415/Nac_Sal_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/407/Nac_oxy_6/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/410/Nac_oxy_4/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/412/Nac_oxy_1/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/421/Nac_Sal_8/rnaseq_qc_results.txt
+QualiMap	rna_genome_results	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/419/Nac_Sal_1/rnaseq_qc_results.txt
+QualiMap	rna_coverage_histogram	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/408/Nac_oxy_8/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/422/Nac_oxy_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/420/Nac_oxy_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/409/Nac_Sal_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/411/Nac_Sal_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/414/Nac_Sal_7/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/413/Nac_Sal_2/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/416/Nac_oxy_5/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/417/Nac_Sal_3/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/418/Nac_oxy_7/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/415/Nac_Sal_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/407/Nac_oxy_6/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/410/Nac_oxy_4/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/412/Nac_oxy_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/421/Nac_Sal_8/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+QualiMap	rna_coverage_histogram	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/419/Nac_Sal_1/raw_data_qualimapReport/coverage_profile_along_genes_(total).txt
+RSeQC	read_distribution	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/355/Nac_Sal_1.read_distribution.txt
+RSeQC	read_distribution	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/349/Nac_Sal_2.read_distribution.txt
+RSeQC	read_distribution	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/353/Nac_Sal_3.read_distribution.txt
+RSeQC	read_distribution	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/346/Nac_Sal_4.read_distribution.txt
+RSeQC	read_distribution	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/345/Nac_Sal_5.read_distribution.txt
+RSeQC	read_distribution	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/350/Nac_Sal_6.read_distribution.txt
+RSeQC	read_distribution	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/348/Nac_Sal_7.read_distribution.txt
+RSeQC	read_distribution	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/357/Nac_Sal_8.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/351/Nac_oxy_1.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/356/Nac_oxy_2.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/358/Nac_oxy_3.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/347/Nac_oxy_4.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/352/Nac_oxy_5.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/343/Nac_oxy_6.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/354/Nac_oxy_7.read_distribution.txt
+RSeQC	read_distribution	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/344/Nac_oxy_8.read_distribution.txt
+RSeQC	inner_distance	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/242/Nac_Sal_1.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/237/Nac_Sal_2.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/241/Nac_Sal_3.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/233/Nac_Sal_4.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/232/Nac_Sal_5.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/236/Nac_Sal_6.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/235/Nac_Sal_7.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/244/Nac_Sal_8.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/238/Nac_oxy_1.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/243/Nac_oxy_2.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/245/Nac_oxy_3.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/234/Nac_oxy_4.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/239/Nac_oxy_5.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/230/Nac_oxy_6.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/240/Nac_oxy_7.inner_distance_freq.txt
+RSeQC	inner_distance	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/231/Nac_oxy_8.inner_distance_freq.txt
+RSeQC	read_duplication	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/371/Nac_Sal_1.pos.DupRate.xls
+RSeQC	read_duplication	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/365/Nac_Sal_2.pos.DupRate.xls
+RSeQC	read_duplication	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/369/Nac_Sal_3.pos.DupRate.xls
+RSeQC	read_duplication	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/362/Nac_Sal_4.pos.DupRate.xls
+RSeQC	read_duplication	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/361/Nac_Sal_5.pos.DupRate.xls
+RSeQC	read_duplication	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/366/Nac_Sal_6.pos.DupRate.xls
+RSeQC	read_duplication	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/364/Nac_Sal_7.pos.DupRate.xls
+RSeQC	read_duplication	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/373/Nac_Sal_8.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/367/Nac_oxy_1.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/372/Nac_oxy_2.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/374/Nac_oxy_3.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/363/Nac_oxy_4.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/368/Nac_oxy_5.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/359/Nac_oxy_6.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/370/Nac_oxy_7.pos.DupRate.xls
+RSeQC	read_duplication	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/360/Nac_oxy_8.pos.DupRate.xls
+RSeQC	junction_annotation	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/290/Nac_Sal_1.junction_annotation.log
+RSeQC	junction_annotation	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/285/Nac_Sal_2.junction_annotation.log
+RSeQC	junction_annotation	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/288/Nac_Sal_3.junction_annotation.log
+RSeQC	junction_annotation	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/281/Nac_Sal_4.junction_annotation.log
+RSeQC	junction_annotation	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/280/Nac_Sal_5.junction_annotation.log
+RSeQC	junction_annotation	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/283/Nac_Sal_6.junction_annotation.log
+RSeQC	junction_annotation	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/284/Nac_Sal_7.junction_annotation.log
+RSeQC	junction_annotation	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/292/Nac_Sal_8.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/286/Nac_oxy_1.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/291/Nac_oxy_2.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/293/Nac_oxy_3.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/282/Nac_oxy_4.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/287/Nac_oxy_5.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/278/Nac_oxy_6.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/289/Nac_oxy_7.junction_annotation.log
+RSeQC	junction_annotation	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/279/Nac_oxy_8.junction_annotation.log
+RSeQC	junction_saturation	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/322/Nac_Sal_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/317/Nac_Sal_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/320/Nac_Sal_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/313/Nac_Sal_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/312/Nac_Sal_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/316/Nac_Sal_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/315/Nac_Sal_7.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/324/Nac_Sal_8.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/318/Nac_oxy_1.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/323/Nac_oxy_2.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/325/Nac_oxy_3.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/314/Nac_oxy_4.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/319/Nac_oxy_5.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/310/Nac_oxy_6.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/321/Nac_oxy_7.junctionSaturation_plot.r
+RSeQC	junction_saturation	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/311/Nac_oxy_8.junctionSaturation_plot.r
+RSeQC	infer_experiment	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/193/Nac_Sal_1.infer_experiment.txt
+RSeQC	infer_experiment	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/188/Nac_Sal_2.infer_experiment.txt
+RSeQC	infer_experiment	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/191/Nac_Sal_3.infer_experiment.txt
+RSeQC	infer_experiment	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/184/Nac_Sal_4.infer_experiment.txt
+RSeQC	infer_experiment	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/183/Nac_Sal_5.infer_experiment.txt
+RSeQC	infer_experiment	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/187/Nac_Sal_6.infer_experiment.txt
+RSeQC	infer_experiment	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/186/Nac_Sal_7.infer_experiment.txt
+RSeQC	infer_experiment	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/195/Nac_Sal_8.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/189/Nac_oxy_1.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/194/Nac_oxy_2.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/196/Nac_oxy_3.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/185/Nac_oxy_4.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/190/Nac_oxy_5.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/181/Nac_oxy_6.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/192/Nac_oxy_7.infer_experiment.txt
+RSeQC	infer_experiment	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/182/Nac_oxy_8.infer_experiment.txt
+RSeQC	bam_stat	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/306/Nac_Sal_1.bam_stat.txt
+RSeQC	bam_stat	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/301/Nac_Sal_2.bam_stat.txt
+RSeQC	bam_stat	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/304/Nac_Sal_3.bam_stat.txt
+RSeQC	bam_stat	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/297/Nac_Sal_4.bam_stat.txt
+RSeQC	bam_stat	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/296/Nac_Sal_5.bam_stat.txt
+RSeQC	bam_stat	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/299/Nac_Sal_6.bam_stat.txt
+RSeQC	bam_stat	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/300/Nac_Sal_7.bam_stat.txt
+RSeQC	bam_stat	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/308/Nac_Sal_8.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/302/Nac_oxy_1.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/307/Nac_oxy_2.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/309/Nac_oxy_3.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/298/Nac_oxy_4.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/303/Nac_oxy_5.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/294/Nac_oxy_6.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/305/Nac_oxy_7.bam_stat.txt
+RSeQC	bam_stat	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/295/Nac_oxy_8.bam_stat.txt
+Samtools	stats	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/153/Nac_Sal_1.sorted.bam.stats
+Samtools	stats	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/327/Nac_Sal_2.markdup.sorted.bam.stats
+Samtools	stats	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/330/Nac_Sal_3.markdup.sorted.bam.stats
+Samtools	stats	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/341/Nac_Sal_4.markdup.sorted.bam.stats
+Samtools	stats	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/157/Nac_Sal_5.sorted.bam.stats
+Samtools	stats	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/161/Nac_Sal_6.sorted.bam.stats
+Samtools	stats	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/151/Nac_Sal_7.sorted.bam.stats
+Samtools	stats	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/155/Nac_Sal_8.sorted.bam.stats
+Samtools	stats	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/147/Nac_oxy_1.sorted.bam.stats
+Samtools	stats	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/339/Nac_oxy_2.markdup.sorted.bam.stats
+Samtools	stats	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/338/Nac_oxy_3.markdup.sorted.bam.stats
+Samtools	stats	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/340/Nac_oxy_4.markdup.sorted.bam.stats
+Samtools	stats	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/158/Nac_oxy_5.sorted.bam.stats
+Samtools	stats	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/333/Nac_oxy_6.markdup.sorted.bam.stats
+Samtools	stats	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/332/Nac_oxy_7.markdup.sorted.bam.stats
+Samtools	stats	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/329/Nac_oxy_8.markdup.sorted.bam.stats
+Samtools	flagstat	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/272/Nac_Sal_1.markdup.sorted.bam.flagstat
+Samtools	flagstat	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/267/Nac_Sal_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/136/Nac_Sal_3.sorted.bam.flagstat
+Samtools	flagstat	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/142/Nac_Sal_4.sorted.bam.flagstat
+Samtools	flagstat	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/135/Nac_Sal_5.sorted.bam.flagstat
+Samtools	flagstat	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/133/Nac_Sal_6.sorted.bam.flagstat
+Samtools	flagstat	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/144/Nac_Sal_7.sorted.bam.flagstat
+Samtools	flagstat	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/145/Nac_Sal_8.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/131/Nac_oxy_1.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/274/Nac_oxy_2.markdup.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/140/Nac_oxy_3.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/262/Nac_oxy_4.markdup.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/265/Nac_oxy_5.markdup.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/132/Nac_oxy_6.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/141/Nac_oxy_7.sorted.bam.flagstat
+Samtools	flagstat	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/146/Nac_oxy_8.sorted.bam.flagstat
+Samtools	idxstats	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/119/Nac_Sal_1.sorted.bam.idxstats
+Samtools	idxstats	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/126/Nac_Sal_2.sorted.bam.idxstats
+Samtools	idxstats	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/254/Nac_Sal_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/115/Nac_Sal_4.sorted.bam.idxstats
+Samtools	idxstats	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/248/Nac_Sal_5.markdup.sorted.bam.idxstats
+Samtools	idxstats	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/124/Nac_Sal_6.sorted.bam.idxstats
+Samtools	idxstats	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/121/Nac_Sal_7.sorted.bam.idxstats
+Samtools	idxstats	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/257/Nac_Sal_8.markdup.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/259/Nac_oxy_1.markdup.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/129/Nac_oxy_2.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/260/Nac_oxy_3.markdup.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/125/Nac_oxy_4.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/120/Nac_oxy_5.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/117/Nac_oxy_6.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/255/Nac_oxy_7.markdup.sorted.bam.idxstats
+Samtools	idxstats	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/118/Nac_oxy_8.sorted.bam.idxstats
+STAR	SummaryLog	Nac_Sal_1	/scratch/15612049/nxf.3xZ5GB01x2/109/Nac_Sal_1.Log.final.out
+STAR	SummaryLog	Nac_Sal_2	/scratch/15612049/nxf.3xZ5GB01x2/106/Nac_Sal_2.Log.final.out
+STAR	SummaryLog	Nac_Sal_3	/scratch/15612049/nxf.3xZ5GB01x2/113/Nac_Sal_3.Log.final.out
+STAR	SummaryLog	Nac_Sal_4	/scratch/15612049/nxf.3xZ5GB01x2/100/Nac_Sal_4.Log.final.out
+STAR	SummaryLog	Nac_Sal_5	/scratch/15612049/nxf.3xZ5GB01x2/103/Nac_Sal_5.Log.final.out
+STAR	SummaryLog	Nac_Sal_6	/scratch/15612049/nxf.3xZ5GB01x2/102/Nac_Sal_6.Log.final.out
+STAR	SummaryLog	Nac_Sal_7	/scratch/15612049/nxf.3xZ5GB01x2/104/Nac_Sal_7.Log.final.out
+STAR	SummaryLog	Nac_Sal_8	/scratch/15612049/nxf.3xZ5GB01x2/112/Nac_Sal_8.Log.final.out
+STAR	SummaryLog	Nac_oxy_1	/scratch/15612049/nxf.3xZ5GB01x2/114/Nac_oxy_1.Log.final.out
+STAR	SummaryLog	Nac_oxy_2	/scratch/15612049/nxf.3xZ5GB01x2/110/Nac_oxy_2.Log.final.out
+STAR	SummaryLog	Nac_oxy_3	/scratch/15612049/nxf.3xZ5GB01x2/108/Nac_oxy_3.Log.final.out
+STAR	SummaryLog	Nac_oxy_4	/scratch/15612049/nxf.3xZ5GB01x2/105/Nac_oxy_4.Log.final.out
+STAR	SummaryLog	Nac_oxy_5	/scratch/15612049/nxf.3xZ5GB01x2/107/Nac_oxy_5.Log.final.out
+STAR	SummaryLog	Nac_oxy_6	/scratch/15612049/nxf.3xZ5GB01x2/99/Nac_oxy_6.Log.final.out
+STAR	SummaryLog	Nac_oxy_7	/scratch/15612049/nxf.3xZ5GB01x2/111/Nac_oxy_7.Log.final.out
+STAR	SummaryLog	Nac_oxy_8	/scratch/15612049/nxf.3xZ5GB01x2/101/Nac_oxy_8.Log.final.out
+FastQC (raw)	all_sections	Nac_Sal_1_1	/scratch/15612049/nxf.3xZ5GB01x2/29/Nac_Sal_1_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_1_2	/scratch/15612049/nxf.3xZ5GB01x2/30/Nac_Sal_1_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_2_1	/scratch/15612049/nxf.3xZ5GB01x2/13/Nac_Sal_2_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_2_2	/scratch/15612049/nxf.3xZ5GB01x2/14/Nac_Sal_2_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_3_1	/scratch/15612049/nxf.3xZ5GB01x2/3/Nac_Sal_3_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_3_2	/scratch/15612049/nxf.3xZ5GB01x2/4/Nac_Sal_3_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_4_1	/scratch/15612049/nxf.3xZ5GB01x2/7/Nac_Sal_4_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_4_2	/scratch/15612049/nxf.3xZ5GB01x2/8/Nac_Sal_4_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_5_1	/scratch/15612049/nxf.3xZ5GB01x2/21/Nac_Sal_5_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_5_2	/scratch/15612049/nxf.3xZ5GB01x2/22/Nac_Sal_5_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_6_1	/scratch/15612049/nxf.3xZ5GB01x2/33/Nac_Sal_6_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_6_2	/scratch/15612049/nxf.3xZ5GB01x2/34/Nac_Sal_6_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_7_1	/scratch/15612049/nxf.3xZ5GB01x2/11/Nac_Sal_7_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_7_2	/scratch/15612049/nxf.3xZ5GB01x2/12/Nac_Sal_7_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_8_1	/scratch/15612049/nxf.3xZ5GB01x2/27/Nac_Sal_8_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_Sal_8_2	/scratch/15612049/nxf.3xZ5GB01x2/28/Nac_Sal_8_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_1_1	/scratch/15612049/nxf.3xZ5GB01x2/17/Nac_oxy_1_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_1_2	/scratch/15612049/nxf.3xZ5GB01x2/18/Nac_oxy_1_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_2_1	/scratch/15612049/nxf.3xZ5GB01x2/25/Nac_oxy_2_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_2_2	/scratch/15612049/nxf.3xZ5GB01x2/26/Nac_oxy_2_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_3_1	/scratch/15612049/nxf.3xZ5GB01x2/23/Nac_oxy_3_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_3_2	/scratch/15612049/nxf.3xZ5GB01x2/24/Nac_oxy_3_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_4_1	/scratch/15612049/nxf.3xZ5GB01x2/5/Nac_oxy_4_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_4_2	/scratch/15612049/nxf.3xZ5GB01x2/6/Nac_oxy_4_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_5_1	/scratch/15612049/nxf.3xZ5GB01x2/15/Nac_oxy_5_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_5_2	/scratch/15612049/nxf.3xZ5GB01x2/16/Nac_oxy_5_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_6_1	/scratch/15612049/nxf.3xZ5GB01x2/9/Nac_oxy_6_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_6_2	/scratch/15612049/nxf.3xZ5GB01x2/10/Nac_oxy_6_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_7_1	/scratch/15612049/nxf.3xZ5GB01x2/19/Nac_oxy_7_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_7_2	/scratch/15612049/nxf.3xZ5GB01x2/20/Nac_oxy_7_raw_2_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_8_1	/scratch/15612049/nxf.3xZ5GB01x2/31/Nac_oxy_8_raw_1_fastqc.zip
+FastQC (raw)	all_sections	Nac_oxy_8_2	/scratch/15612049/nxf.3xZ5GB01x2/32/Nac_oxy_8_raw_2_fastqc.zip
+Cutadapt	all_sections	Nac_Sal_1_1	/scratch/15612049/nxf.3xZ5GB01x2/87/Nac_Sal_1_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_1_2	/scratch/15612049/nxf.3xZ5GB01x2/88/Nac_Sal_1_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_2_1	/scratch/15612049/nxf.3xZ5GB01x2/47/Nac_Sal_2_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_2_2	/scratch/15612049/nxf.3xZ5GB01x2/48/Nac_Sal_2_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_3_1	/scratch/15612049/nxf.3xZ5GB01x2/35/Nac_Sal_3_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_3_2	/scratch/15612049/nxf.3xZ5GB01x2/36/Nac_Sal_3_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_4_1	/scratch/15612049/nxf.3xZ5GB01x2/43/Nac_Sal_4_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_4_2	/scratch/15612049/nxf.3xZ5GB01x2/44/Nac_Sal_4_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_5_1	/scratch/15612049/nxf.3xZ5GB01x2/75/Nac_Sal_5_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_5_2	/scratch/15612049/nxf.3xZ5GB01x2/76/Nac_Sal_5_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_6_1	/scratch/15612049/nxf.3xZ5GB01x2/95/Nac_Sal_6_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_6_2	/scratch/15612049/nxf.3xZ5GB01x2/96/Nac_Sal_6_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_7_1	/scratch/15612049/nxf.3xZ5GB01x2/55/Nac_Sal_7_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_7_2	/scratch/15612049/nxf.3xZ5GB01x2/56/Nac_Sal_7_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_8_1	/scratch/15612049/nxf.3xZ5GB01x2/71/Nac_Sal_8_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_Sal_8_2	/scratch/15612049/nxf.3xZ5GB01x2/72/Nac_Sal_8_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_1_1	/scratch/15612049/nxf.3xZ5GB01x2/59/Nac_oxy_1_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_1_2	/scratch/15612049/nxf.3xZ5GB01x2/60/Nac_oxy_1_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_2_1	/scratch/15612049/nxf.3xZ5GB01x2/83/Nac_oxy_2_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_2_2	/scratch/15612049/nxf.3xZ5GB01x2/84/Nac_oxy_2_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_3_1	/scratch/15612049/nxf.3xZ5GB01x2/79/Nac_oxy_3_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_3_2	/scratch/15612049/nxf.3xZ5GB01x2/80/Nac_oxy_3_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_4_1	/scratch/15612049/nxf.3xZ5GB01x2/39/Nac_oxy_4_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_4_2	/scratch/15612049/nxf.3xZ5GB01x2/40/Nac_oxy_4_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_5_1	/scratch/15612049/nxf.3xZ5GB01x2/63/Nac_oxy_5_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_5_2	/scratch/15612049/nxf.3xZ5GB01x2/64/Nac_oxy_5_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_6_1	/scratch/15612049/nxf.3xZ5GB01x2/51/Nac_oxy_6_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_6_2	/scratch/15612049/nxf.3xZ5GB01x2/52/Nac_oxy_6_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_7_1	/scratch/15612049/nxf.3xZ5GB01x2/67/Nac_oxy_7_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_7_2	/scratch/15612049/nxf.3xZ5GB01x2/68/Nac_oxy_7_trimmed_2.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_8_1	/scratch/15612049/nxf.3xZ5GB01x2/91/Nac_oxy_8_trimmed_1.fastq.gz_trimming_report.txt
+Cutadapt	all_sections	Nac_oxy_8_2	/scratch/15612049/nxf.3xZ5GB01x2/92/Nac_oxy_8_trimmed_2.fastq.gz_trimming_report.txt
+FastQC (trimmed)	all_sections	Nac_Sal_1_1	/scratch/15612049/nxf.3xZ5GB01x2/89/Nac_Sal_1_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_1_2	/scratch/15612049/nxf.3xZ5GB01x2/90/Nac_Sal_1_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_2_1	/scratch/15612049/nxf.3xZ5GB01x2/49/Nac_Sal_2_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_2_2	/scratch/15612049/nxf.3xZ5GB01x2/50/Nac_Sal_2_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_3_1	/scratch/15612049/nxf.3xZ5GB01x2/37/Nac_Sal_3_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_3_2	/scratch/15612049/nxf.3xZ5GB01x2/38/Nac_Sal_3_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_4_1	/scratch/15612049/nxf.3xZ5GB01x2/45/Nac_Sal_4_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_4_2	/scratch/15612049/nxf.3xZ5GB01x2/46/Nac_Sal_4_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_5_1	/scratch/15612049/nxf.3xZ5GB01x2/77/Nac_Sal_5_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_5_2	/scratch/15612049/nxf.3xZ5GB01x2/78/Nac_Sal_5_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_6_1	/scratch/15612049/nxf.3xZ5GB01x2/97/Nac_Sal_6_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_6_2	/scratch/15612049/nxf.3xZ5GB01x2/98/Nac_Sal_6_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_7_1	/scratch/15612049/nxf.3xZ5GB01x2/57/Nac_Sal_7_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_7_2	/scratch/15612049/nxf.3xZ5GB01x2/58/Nac_Sal_7_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_8_1	/scratch/15612049/nxf.3xZ5GB01x2/73/Nac_Sal_8_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_Sal_8_2	/scratch/15612049/nxf.3xZ5GB01x2/74/Nac_Sal_8_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_1_1	/scratch/15612049/nxf.3xZ5GB01x2/61/Nac_oxy_1_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_1_2	/scratch/15612049/nxf.3xZ5GB01x2/62/Nac_oxy_1_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_2_1	/scratch/15612049/nxf.3xZ5GB01x2/85/Nac_oxy_2_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_2_2	/scratch/15612049/nxf.3xZ5GB01x2/86/Nac_oxy_2_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_3_1	/scratch/15612049/nxf.3xZ5GB01x2/81/Nac_oxy_3_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_3_2	/scratch/15612049/nxf.3xZ5GB01x2/82/Nac_oxy_3_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_4_1	/scratch/15612049/nxf.3xZ5GB01x2/41/Nac_oxy_4_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_4_2	/scratch/15612049/nxf.3xZ5GB01x2/42/Nac_oxy_4_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_5_1	/scratch/15612049/nxf.3xZ5GB01x2/65/Nac_oxy_5_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_5_2	/scratch/15612049/nxf.3xZ5GB01x2/66/Nac_oxy_5_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_6_1	/scratch/15612049/nxf.3xZ5GB01x2/53/Nac_oxy_6_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_6_2	/scratch/15612049/nxf.3xZ5GB01x2/54/Nac_oxy_6_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_7_1	/scratch/15612049/nxf.3xZ5GB01x2/69/Nac_oxy_7_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_7_2	/scratch/15612049/nxf.3xZ5GB01x2/70/Nac_oxy_7_trimmed_2_val_2_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_8_1	/scratch/15612049/nxf.3xZ5GB01x2/93/Nac_oxy_8_trimmed_1_val_1_fastqc.zip
+FastQC (trimmed)	all_sections	Nac_oxy_8_2	/scratch/15612049/nxf.3xZ5GB01x2/94/Nac_oxy_8_trimmed_2_val_2_fastqc.zip
