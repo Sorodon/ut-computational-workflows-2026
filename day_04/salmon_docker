@@ -1,0 +1,11 @@
+FROM debian:bullseye-slim
+
+LABEL image.author.name="yourname"
+LABEL image.author.email="yourmail"
+
+# Install dependencies
+
+# Download and install Salmon
+
+# Set the PATH environment variable (to /usr/bin)
+
