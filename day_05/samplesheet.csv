@@ -1,0 +1,5 @@
+sample,fastq_1,fastq_2,strandedness
+CONTROL_REP1,fq_1_R1.fastq.gz,fq_1_R2.fastq.gz,auto
+CONTROL_REP2,fq_2_R1.fastq.gz,fq_2_R2.fastq.gz,forward
+CONTROL_REP3,fq_3_R1.fastq.gz,fq_3_R2.fastq.gz,reverse
+CONTROL_REP1,fq_4_R1.fastq.gz,fq_4_R2.fastq.gz,auto

@@ -1,0 +1,3 @@
+block_size,input_str,out_name
+4,Hello World,h_w
+3,Computational Workflows,c_w
