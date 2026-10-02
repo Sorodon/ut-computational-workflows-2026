@@ -1,5 +1,7 @@
-params.step = 0
-params.zip = 'zip'
+params {
+    step: Integer = 0
+    zip: String = 'zip'
+}
 
 
 process SAYHELLO {

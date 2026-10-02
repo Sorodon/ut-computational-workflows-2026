@@ -1,4 +1,6 @@
-params.step = 0
+params {
+    step: Integer = 0
+}
 
 
 workflow{
@@ -8,12 +10,12 @@ workflow{
     // =========================================================================== //
     
     // Queue channel
-    if (params.step == "0") {
+    if (params.step == 0) {
         out_ch = channel.of(1,2,3)
     }
 
     // Value channel
-    if (params.step == "0") {
+    if (params.step == 0) {
         out_ch = channel.value(1)
     }
 
