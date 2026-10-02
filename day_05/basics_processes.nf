@@ -6,6 +6,137 @@ params {
 
 process SAYHELLO {
     debug true
+    output:
+        stdout
+    script:
+        """
+        echo Hello World!
+        """
+}
+
+process SAYHELLO_PYTHON {
+    debug true
+    output:
+        stdout
+    script:
+        """
+        #!/bin/python
+        print('Hello World!')
+        """
+}
+
+process SAYHELLO_PARAM {
+    debug true
+    input:
+        val helloworld
+    output:
+        stdout
+    script:
+        """
+        echo '${helloworld}'
+        """
+}
+
+process SAYHELLO_FILE {
+    publishDir 'results', mode: 'move'
+    input:
+        val helloworld
+    output:
+        path('helloworld')
+    script:
+        """
+        touch 'helloworld'
+        echo '${helloworld}' > helloworld
+        """
+}
+
+process UPPERCASE {
+    publishDir 'results', mode: 'copy'
+    input:
+        val instr
+    output:
+        path('uppercase')
+    script:
+        """
+        touch 'uppercase'
+        echo ${instr} | tr '[:lower:]' '[:upper:]' > uppercase
+        """
+}
+
+process PRINTUPPER {
+    debug true
+    input:
+        path uppercase
+    output:
+        stdout
+    script:
+        """
+        cat ${uppercase}
+        """
+}
+
+process ZIP_FILE {
+    debug true
+    publishDir 'results', mode: 'copy'
+    input:
+        path infile
+        val zip
+    output:
+        stdout
+        path('*')
+    script:
+        """
+        OUTFILE=\$(basename $infile)
+        GZIP_OUTFILE=\$OUTFILE.gz
+        BZIP_OUTFILE=\$OUTFILE.bz2
+        if [[ ${zip} == 'zip' ]]; then
+            zip \$OUTFILE $infile >/dev/null && \
+            echo \$(pwd)/\$OUTFILE.zip
+        elif [[ $zip == 'gzip' ]]; then
+            gzip -c $infile > \$GZIP_OUTFILE && \
+            echo \$(pwd)/\$GZIP_OUTFILE
+        elif [[ $zip == 'bzip2' ]]; then
+            bzip2 -c $infile > \$BZIP_OUTFILe && \
+            echo \$(pwd)/\$BZIP_OUTFILE
+        fi
+        """
+}
+
+process COMPRESS_FILES {
+    debug true
+    publishDir 'results', mode: 'copy'
+    input:
+        path infile
+    output:
+        stdout
+        path('*')
+    script:
+        """
+        OUTFILE=\$(basename $infile)
+        GZIP_OUTFILE=\$OUTFILE.gz
+        BZIP_OUTFILE=\$OUTFILE.bz2
+        zip \$OUTFILE $infile && \
+            echo \$(pwd)/\$OUTFILE.zip
+        gzip -c $infile > \$GZIP_OUTFILE && \
+            echo \$(pwd)/\$GZIP_OUTFILE
+        bzip2 -c $infile > \$BZIP_OUTFILE && \
+            echo \$(pwd)/\$BZIP_OUTFILE
+        """
+
+}
+
+process WRITETOFILE {
+    debug true
+    publishDir 'results', mode: 'copy'
+    input:
+        val terfs
+    output:
+        path "names.tsv"
+    script:
+        """
+        echo "name\ttitle" > names.tsv
+        echo "${terfs.collect{v->"${v.name}\t${v.title}"}.join('\n')}" >> names.tsv
+        """
 }
 
 
@@ -53,12 +184,17 @@ workflow {
     //          Print out the path to the zipped file in the console
     if (params.step == 7) {
         greeting_ch = Channel.of("Hello world!")
+        out_ch = UPPERCASE(greeting_ch)
+        ZIP_FILE(out_ch, params.zip)
+        
     }
 
     // Task 8 - Create a process that zips the file created in the UPPERCASE process in "zip", "gzip" AND "bzip2" format. Print out the paths to the zipped files in the console
 
     if (params.step == 8) {
         greeting_ch = Channel.of("Hello world!")
+        out_ch = UPPERCASE(greeting_ch)
+        COMPRESS_FILES(out_ch)
     }
 
     // Task 9 - Create a process that reads in a list of names and titles from a channel and writes them to a file.
@@ -75,9 +211,9 @@ workflow {
             ['name': 'Dobby', 'title': 'hero'],
         )
 
-        in_ch
+        in_ch.collect()
             | WRITETOFILE
-            // continue here
+            // continue here // this is super misleading, as we need to use collect before here or resort to unsafe overwriting of files created on other threads.
     }
 
 }

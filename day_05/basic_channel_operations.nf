@@ -9,6 +9,7 @@ workflow{
 
     if (params.step == 1) {
         in_ch = channel.of(1,2,3)
+        in_ch.first().view()
 
     }
 
@@ -17,6 +18,7 @@ workflow{
     if (params.step == 2) {
 
         in_ch = channel.of(1,2,3)
+        in_ch.last().view()
 
     }
 
@@ -25,6 +27,7 @@ workflow{
     if (params.step == 3) {
 
         in_ch = channel.of(1,2,3)
+        in_ch.take(2).view()
 
 
     }
@@ -34,6 +37,8 @@ workflow{
     if (params.step == 4) {
 
         in_ch = channel.of(2,3,4)
+        in_ch.map{ v -> v*v }.view()
+        in_ch.view { v -> v*v }
 
 
     }
@@ -52,6 +57,7 @@ workflow{
     if (params.step == 6) {
         
         in_ch = channel.of('Taylor', 'Swift')
+        in_ch.map{ v -> v.reverse() }.view()
 
     }
 
@@ -60,6 +66,7 @@ workflow{
     if (params.step == 7) {
 
         in_ch = channel.fromPath('files_dir/*.fq')
+        in_ch.map{ v -> v.toString().replaceAll(/^(\/.*\/([^\/]+\.fq))/, 'Name: $2 \t\t Path: $1') }.view()
 
         
     }
@@ -71,6 +78,7 @@ workflow{
         ch_1 = channel.of(1,2,3)
         ch_2 = channel.of(4,5,6)
         out_ch = channel.of("a", "b", "c")
+        out_ch.merge(ch_1, ch_2).view()
 
 
     }
@@ -80,7 +88,7 @@ workflow{
     if (params.step == 9) {
 
         in_ch = channel.of([1,2,3], [4,5,6])
-
+        in_ch.flatten().view()
 
     }
 
@@ -89,7 +97,9 @@ workflow{
     if (params.step == 10) {
 
         in_ch = channel.of(1,2,3)
-
+        in_ch.toList().view()
+        in_ch.collect().view()
+        // The output channel is a list now?
     }
     
 
@@ -102,7 +112,8 @@ workflow{
     if (params.step == 11) {
 
         in_ch = channel.of([1, 'V'], [3, 'M'], [2, 'O'], [1, 'f'], [3, 'G'], [1, 'B'], [2, 'L'], [2, 'E'], [3, '33'])
-
+        in_ch.groupTuple().view()
+        
     }
 
     // Task 12 - Create a channel that joins the input to the output channel. What do you notice
@@ -111,6 +122,8 @@ workflow{
 
         left_ch = channel.of([1, 'V'], [3, 'M'], [2, 'O'], [1, 'B'], [3, '33'])
         right_ch = channel.of([1, 'f'], [3, 'G'], [2, 'L'], [2, 'E'],)
+        left_ch.join(right_ch).view()
+        // This seems to drop unmatched elements
 
     }
 
@@ -120,6 +133,8 @@ workflow{
     if (params.step == 13) {
 
         in_ch = channel.of(1,2,3,4,5,6,7,8,9,10)
+        in_ch.filter{v -> v%2==0}.toList().view{v -> "Even: ${v}"}
+        in_ch.filter{v -> v%2==1}.toList().view{v -> "Odd: ${v}"}
 
     }
 
@@ -137,6 +152,7 @@ workflow{
             ['name': 'Hagrid', 'title': 'groundkeeper'],
             ['name': 'Dobby', 'title': 'hero'],
         )
+        in_ch.map{v->v.name}.collectFile(name: 'results/names.txt', newLine: true)
     
     }
 
